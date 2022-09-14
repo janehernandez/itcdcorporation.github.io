@@ -1,0 +1,113 @@
+{
+    "name": "Product List",
+    "desc": "List of products and their specification and description",
+    "products": [
+      {
+        "name": "CCTV",
+        "id": 1,
+        "param": "cctv",
+        "img": "../assets/img/products/cctvs.png",
+        "price": "15,000",
+        "qty": "5",
+        "description": "We offer a variety of CCTV Cameras that contain standard specifications like 1080P High Definition Video, minimum 3.6MM Megapixel Lens, wide horizontal resolution for camera angle or view and high speed – long distance real time transmission.",
+        "specification": [
+          "720p - 920p real-time preview",
+          "H.264 Dual-stream Video Compression",
+          "HDMI/VGA Simultaneous Video Output",
+          "High definition 1.3 megapixel & wide dynamic range ",
+          "Heavy duty, vandal-resistant aluminum construction & IP66 weatherproof "
+        ]
+      },
+      {
+        "name": "Global Positioning System Tracking Device",
+        "id": 2,
+        "param": "gps",
+        "img": "../assets/img/products/gps.png",
+        "price": "15,000",
+        "qty": "5",
+        "description": "Our Global Positioning System (GPS) Devices provide a fast update rate for location and tracking purposes. Along with its motion and speed sensor capabilities, it also has a GPRS Connectivity & SMS Back Up which serves as a support to the tracking information directly sent to the back end GPS software.",
+        "specification": [
+          "Real Time Tracking",
+          "Alerts/Notifications",
+          "History and Reports",
+          "Fuel Savings",
+          "Geo Fencing"
+
+        ]
+      },
+      {
+        "name": "DASHBOARD CAMERA",
+        "id": 3,
+        "param": "dash-cam",
+        "img": "../assets/img/products/dash-cams.png",
+        "price": "15,000",
+        "qty": "5",
+        "description": "Our Dashboard Cameras have a 4.5LCD Display and a high definition video of 1080P. It has a wide range view of angle up to 150 degrees display and a night vision video mode. The dashboard camera is also assembled with an anti-glare camera glass which contributes greatly to the fineness of its video quality. <br /><br /> ITCD also offers dashcams with livestreaming.",
+        "specification": [
+          "Dash cam is equipped with 1920 x 1080P video resolution.",
+          "Cooperate with a 170° wide angel, ensure less blind spots, achieve the best image quality, night time performance and crystal clear recording.",
+          "Enjoy your journey with much more safety",
+          "Motion detection mode and loop recording",
+          "Supports night vision function"
+
+        ]
+      },
+      {
+        "name": "THERMAL IMAGING CAMERA",
+        "id": 4,
+        "param": "thermal-cam",
+        "img": "../assets/img/products/thermal-cams.png",
+        "price": "15,000",
+        "qty": "5",
+        "description": "Our Thermal Imaging Cameras (TIC) provide superior image quality and high thermography accuracy. Our TICs operate with Testo Super Resolution Technology of 320 x 240 pixels and a thermography of 19,200 temperature measurement points. The camera contains an IFOV Warmer and other functions such as ScaleAssist, E-Assist & mould detection.",
+        "specification": [
+            "MSX-enhanced thermal images provide stunning detail to help you identify problem areas easier",
+            "Radiometric image stores 4800 pixels capable of capturing thermal measurements from -10°C to 150°C (14°F to 302°F)",
+            "Area measurement box measures hottest or coldest spot (max./min.)"
+        ]
+      },
+      {
+        "name": "BODY CAMERA",
+        "id": 4,
+        "param": "body-cam",
+        "img": "../assets/img/products/body-cams.png",
+        "price": "15,000",
+        "qty": "5",
+        "description": "Our 160 Degree wide angled Body Cameras produce high definition videos with 1080P resolution. With the device’s built in microphone, videos are recorded with quality sound and are recorded on the 32GB memory card supported by the Body Camera.",
+        "specification": [
+            "160 Degree wide angled Body Cameras produce high definition videos with 1080P resolution",
+            "device’s built in microphone",
+            "device’s built in microphone, videos are recorded with quality sound and are recorded",
+            "up to 32GB memory card supported"
+        ]
+      },
+      {
+        "name": "OFG DEVICE PACKAGE",
+        "id": 4,
+        "param": "ofg",
+        "img": "../assets/img/products/ofg-bundle.png",
+        "price": "15,000",
+        "qty": "5",
+        "description": "We offer a complete set of Omnibus Franchising Guidelines (OFG) Devices for Public Utility Vehicles such as Taxis, UV Express, Jeepneys and Buses; all accredited and in compliance to the Department of Transportation Department Order no. 2017-011.",
+        "specification": [
+            "Dashboard Camera",
+            "GPS",
+            "LTE Router",
+            "All in one Bundle"
+        ]
+      },
+      {
+        "name": "Law Enforcement & Security",
+        "id": 4,
+        "param": "law",
+        "img": "../assets/img/products/lawenforcement.png",
+        "price": "15,000",
+        "qty": "5",
+        "description": "We also offer bundles or customize package especially for military government or security agencies.",
+        "specification": [
+            "Rugged Laptops",
+            "Dashboard mounted cameras"
+        ]
+      }
+    ]
+}

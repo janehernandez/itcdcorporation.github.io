@@ -1,0 +1,44 @@
+{
+    "name": "Project List",
+    "desc": "List of projects and their description",
+    "projects": [
+        {
+            "name": "SM – SUPERMALL TRANSPORT SERVICE INC.",
+            "id": 1,
+            "param": "sm-stsi",
+            "img": "../assets/img/projects/sm-stsi.png",
+            "description": "SM Supermalls is one of the most established world-class shopping centers in the Philippines and China. It is is known for its’ tagline, “We’ve got it all for you”. While SM Supermalls work in providing the best shopping experience for its’ customers, it lives up into giving everything they can offer to them as well. The Supermalls Transport Services Inc. or STSI was established under the umbrella of the latter to take charge in providing reliable transport for the mall goers.<br><br>ITCD Corporation being on the business field of Transportation Solutions, has started a project with SM – Supermalls Transport Services Inc. (STSI) in the year 2018. The said project focused on Fleet Management of the Public Utility Vehicles in the mall terminals and the automation of the ticketing system for the rides on the said vehicle terminal.<br><br>The project was implemented in line with the Philippine Government’s mandate for the Modernization of Public Utility Vehicles (PUV)."
+        },
+        {
+            "name": "DEPARTMENT OF TRANSPORTATION – LAND TRANSPORTATION FRANCHISING & REGULATORY BOARD",
+            "id": 2,
+            "param": "dotr-ltfrb",
+            "img": "../assets/img/projects/dotr-ltfrb.png",
+            "description": "<center><iframe width='480' height='240' src='https://www.youtube.com/embed/uxa40mdJx9I?feature=oembed' frameborder='0' allow='autoplay; encrypted-media' autoplay allowfullscreen=''></iframe></center> <br/>The Land Transportation Franchising & Regulatory Board (LTFRB) is an agency under the Philippine Department of Transportation (DOTr) sector. The said government unit is in charge of administering, enforcement and monitoring of compliance policies, laws and regulations for the public land transportation services in the country.  The LTFRB also spearheads in determining public transport issues and solutions.<br><br>Being in compliance to the standard and requirements set in the <a href='https://drive.google.com/file/d/0Bx283SS6qJi2ZmQ0RTdWYlZqc2M/view' data-toggle='tooltip' title='Click here to view the Document' target='_blank'>DOTr Department Order no. 2017 – 011 </a>, the LTFRB has issued ITCD Corporation an accreditation to sell and market GPS devices. Ever since, our company has worked closely with the Department of Transportation & Land Transportation and Franchising Regulatory Board with regards to issuing compliance certificates to vehicles being registered to the government."
+        },
+        {
+            "name": "METRO MANILA DEVELOPMENT AUTHORITY",
+            "id": 3,
+            "param": "mmda",
+            "img": "../assets/img/projects/mmda.png",
+            "description": "The Metro Manila Development Authority or otherwise known as MMDA is a government group which operates in the cities of Caloocan, Manila, Mandaluyong, Pasay, Quezon, Las Pinas, Makati, Malabon, Mrikina, Muntinlupa Navotas, Paranaque, Pasig, Pateros, San Juan, Taguig. The group is in charge of both short term and long term developmental planning  for various public-related affairs Valenzuela. Some concerning  transport, traffic management and public safety.<br><br>In light of the above said work being done by the MMDA, ITCD Corporation has created a Public Transport Monitoring system which enables the group to oversee and automate the necessary data they are gathering. The system sees to collect transport data for future projects of the MMDA, provide live monitoring of Public Utility Vehicles (PUVs), display single repository PUV information and enable the group to facilitate and maange the thousands of applications that need processing. Other functions of the systems allows uncomplicated submission of franchise requirements, online franchise transactions, appointment scheduling, reporting PUV issues and the like."
+        },
+        {
+            "name": "HIGHWAY PATROL GROUP",
+            "id": 4,
+            "param": "hpg",
+            "img": "../assets/img/projects/hpg.png",
+            "description": "This group enforces the traffic laws and regulations, promote safety along the highways, enhances traffic safety consciousness through inter- agency cooperation concerning Police Traffic Safety Engineering, Traffic Safety Education and Traffic Law enforcement functions and develops reforms in the crime prevention aspect against all forms of lawlessness committed along National Highway involving the use of motor vehicles. <br /> <br />Further, ITCD proposed a project measure for the support for the HPG with regards to the advancement and modernization of their motor pool of vehicles. This measure will ensure a more equipped HPG motorcycle that will face the modern challenges and will provide technology to modernized patrol cars and police command center. <br /> <br /> <h5> Project Includes: </h5> <ul class='wow animated fadeInLeft slow'> <li>FLEET Management System</li> <li>Asset Tracking</li> <li>Computer Aided Dispatch</li></ul>"
+        },
+        {
+            "name": "Philippine National Police <br /><h5>Clean Rider Program</h5>",
+            "id": 5,
+            "param": "pnp",
+            "img": "../assets/img/projects/pnp.png",
+            "description": "ELECTRONIC CLEAN RIDERS TRACKING SYSTEM <b>(ECRTS)</b> is designed to assist in monitoring, tracking and identifying the person information and their motorcycle/vehicle. This system allows the user to easily get important data of the person owning the motorcycle/vehicle (past and present owner) <br /> <br />  <b>Clean Rider</b> is a nationwide event of the Philippine National Police because of the rising number of killings and other crimes involving motorcycles as a getaway vehicle of the assailants. Crimes involving motorcycle-riding criminals have been rampant in the country during the past years. <br /><br /> And as such, ITCD has provided a solution to assist in the emergence of high-grade crime. ITCD has created a system to help our enforcers to identify the information and suitability of the person owning the motorcycle."
+            
+        }
+
+
+    ]
+}
